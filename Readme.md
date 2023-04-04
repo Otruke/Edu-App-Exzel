@@ -21,27 +21,35 @@ With its comprehensive range of features, this Edu-App is the ultimate tool for 
 ## The App Features in a Nutshell
  <p >
     Book Search
-    
+    <p>
         <img src="./Screenshot/bookSearch.png" width="200" title="Book Search">
+        </p>
  </p>
   <p >
     Book Library
-
-     <img src="./Screenshot/bookLibrary.png" width="200" title="Book Library">
+    <p>
+        <img src="./Screenshot/bookLibrary.png" width="200" title="Book Library">
+        </p>
   </p>
    <p >
   Note Taking
+  <p>
      <img src="./Screenshot/noteTaking.png" width="200" title="Note Taking">
+     </p>
     </p>
 
  <p >
     Classroom
+    <p>
      <img src="./Screenshot/classroom.png" width="200" title="Classroom">
+     </p>
  </p>
 
   <p >
     Courses and Certificates
+    <p>
      <img src="./Screenshot/courseAndCertificate.png" width="200" title="Courses and Certificates">
+     </p>
 
   </p>
 
