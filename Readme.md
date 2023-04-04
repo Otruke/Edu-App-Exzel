@@ -19,27 +19,31 @@ And finally, the app offers a range of courses that you can take to further your
 With its comprehensive range of features, this Edu-App is the ultimate tool for anyone looking to further their education, advance their career, or simply expand their knowledge base, So what are you waiting for? Download the app today or contact Rufus to download it and start learning!
 
 ## The App Features in a Nutshell
+ <p >
+    Book Search
+    
+        <img src="./Screenshot/bookSearch.png" width="200" title="Book Search">
+ </p>
+  <p >
+    Book Library
 
-* Book Search
-    <p >
-     <img src="./Screenshot/bookSearch.png" width="200" title="Book Search">
-    </p>
-* Book Library
-    <p >
      <img src="./Screenshot/bookLibrary.png" width="200" title="Book Library">
-    </p>
-* Note Taking
-    <p >
+  </p>
+   <p >
+  Note Taking
      <img src="./Screenshot/noteTaking.png" width="200" title="Note Taking">
     </p>
-* Classroom
-    <p >
+
+ <p >
+    Classroom
      <img src="./Screenshot/classroom.png" width="200" title="Classroom">
-    </p>
-* Courses and Certificates
-    <p >
+ </p>
+
+  <p >
+    Courses and Certificates
      <img src="./Screenshot/courseAndCertificate.png" width="200" title="Courses and Certificates">
-    </p>
+
+  </p>
 
 ## Technology for this App
 * Stepzen
