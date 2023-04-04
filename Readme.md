@@ -1,6 +1,6 @@
 # EXZEL
 
-## This Edu-App is an Educational App to meet all Educational needs and it has the following features
+## This Edu-App EXZEL is an Educational App that Meet all Educational Needs.
 
 
 Introducing the ultimate Edu-App EXZEL for all educational needs - a one-stop-shop for everything you need to learn, grow, and succeed in your academic pursuits! With a wide range of features that cater to different learning styles, this app is perfect for students, professionals, and anyone who wants to continue their education.
